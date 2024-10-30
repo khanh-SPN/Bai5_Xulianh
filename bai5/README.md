@@ -11,13 +11,6 @@
 - **Tự động gán nhãn** cho ảnh trong thư mục `data/images`.
 - **Độ chính xác cao** với dữ liệu mẫu (Iris) và dữ liệu ảnh.
 
-## Ảnh minh họa
-Dưới đây là một số ảnh minh họa về giao diện và kết quả phân loại:
-
-- ![Demo 1](./demo/demo1.jpg)
-- ![Demo 2](./demo/demo2.jpg)
-- ![Demo 3](./demo/demo3.jpg)
-- ![Demo 4](./demo/demo4.jpg)
 
 ## Yêu cầu hệ thống
 - Python 3.6 trở lên
@@ -25,10 +18,7 @@ Dưới đây là một số ảnh minh họa về giao diện và kết quả p
 
 ## Hướng dẫn cài đặt và chạy chương trình
 1. **Clone dự án**:
-    ```bash
-    git clone https://github.com/yourusername/phanlopanh.git
-    cd phanlopanh
-    ```
+    
 
 2. **Cài đặt các thư viện cần thiết**:
     ```bash
